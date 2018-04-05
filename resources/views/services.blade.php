@@ -63,16 +63,18 @@
               </div>
               <div class="single-tab">
                 <h3 class="sub-title">PETIT ÉOLIEN </h3>
-                <p>
-                  Alors que le grand éolien a pour enjeu premier de participer à l’équilibre offre-demande du système électrique français en diminuant le contenu carbone du bouquet énergétique, le petit éolien se positionne comme une production diffuse d’électricité renouvelable.
-                </p>
-                <p>
-                  Il mobilise des niveaux d’investissement moins élevés, nécessite des référentiels normatifs moins complexes et des conditions de connexion au réseau moins règlementées que le grand éolien.
-                </p>
-                <p>
-                  Le respect de la contrainte d’efficacité économique implique de centrer le marché du petit éolien sur le domaine rural : ainsi, d’une part la ressource en vent est de meilleure qualité, d’autre part le petit éolien permet de faire levier sur l’enjeu du secteur agricole de diminution de la dépendance énergétique ou d’apporter une solution aux zones non connectées.
+                <ul style="padding:0">
+                  <p>
+                    Alors que le grand éolien a pour enjeu premier de participer à l’équilibre offre-demande du système électrique français en diminuant le contenu carbone du bouquet énergétique, le petit éolien se positionne comme une production diffuse d’électricité renouvelable.
+                  </p>
+                  <p>
+                    Il mobilise des niveaux d’investissement moins élevés, nécessite des référentiels normatifs moins complexes et des conditions de connexion au réseau moins règlementées que le grand éolien.
+                  </p>
+                  <p>
+                    Le respect de la contrainte d’efficacité économique implique de centrer le marché du petit éolien sur le domaine rural : ainsi, d’une part la ressource en vent est de meilleure qualité, d’autre part le petit éolien permet de faire levier sur l’enjeu du secteur agricole de diminution de la dépendance énergétique ou d’apporter une solution aux zones non connectées.
 
-                </p>
+                  </p>
+                </ul>
               </div>
             </div>
           </div>
@@ -107,16 +109,24 @@
               </div>
               <div class="single-tab">
                 <h3 class="sub-title">OPTIMISATION ÉNERGÉTIQUE TECHNOSUN <span>VOUS ACCOMPAGNE</span></h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                 <div class="mt-30 mb-30">
-                  <p>In congue justo sit amet odio semper, non suscipit elit fringilla. Aenean vitae metus efficitur, mattis dolor ac, condimentum lacus Cras semper ultrices libero vel interdum.</p>
+                  <p>
+                    <ul style="padding:0">
+                      Imulation Thermique Dynamique (STD), optimisation des équipements énergétiques, optimisation de l’éclairage naturel et artificiel.
+
+                      Nous intervenons principalement sur des projets de qualité environnementale où nous nous engageons à aboutir à l’objectif de performance énergétique exigé par la maîtrise d’ouvrage. Dans l’optique d’une réduction des consommations d’énergie, des émissions de gaz à effet de serre des bâtiments et de la pollution engendrée par les matériaux, l’éco conception et l’approche bioclimatique sont des préalables nécessaires. Ainsi, le recours aux énergies est limité et la construction (re)trouve une cohérence avec son environnement par sa sobriété énergétique.
+
+                      La simulation thermique dynamique est l’outil indispensable à la conception pour identifier les défaillances techniques et architecturales perturbant le confort des usagers. Cette modélisation numérique nous permet d’orienter le projet de
+                      construction vers des alternatives améliorant le confort et permettant des économies sur le coût d’exploitation par des simulations successives de combinaison de matériaux.
+                    </ul>
+                  </p>
                 </div>
-                <ul>
+                {{-- <ul>
                   <li> Anim pariatur cliche reprehenderit </li>
                   <li> Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
                   <li> Morbi accumsan ipsum velit sodales tellus odio tincidunt auctor</li>
                   <li>Locavore pork belly scenester, pinterest chillwave microdos</li>
-                </ul>
+                </ul> --}}
                 <!-- <a href="" class="btn tab-btn">read more</a> -->
               </div>
             </div>
