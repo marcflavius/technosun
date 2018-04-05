@@ -127,17 +127,21 @@
                 <img src="assets/img/service/tab5.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title">TRAITEMENT D'EAU</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <h3 class="sub-title">TRAITEMENT DES D'EAUX</h3>
+
                 <div class="mt-30 mb-30">
-                  <p>In congue justo sit amet odio semper, non suscipit elit fringilla. Aenean vitae metus efficitur, mattis dolor ac, condimentum lacus Cras semper ultrices libero vel interdum.</p>
+                  <p>
+                    De la récupération de l'eau de pluie, au traitement de l'eau du réseau, l'eau de votre puits, d'une source, ou l'eau d'un forage nous avons la solution adaptée à votre besoin.
+  Nous traitons la problématique de l'eau que vous avez à disposition : Arsenic, calcaire, tartre, désinfection, dessalement, fer, manganèse, herbicides, légionnelle, métaux lourds, nitrates, pesticides, Ph, minéralisation pour obtenir une eau de qualité.
+  Membre actif du développement durable, TECHNOSUN vous accompagnera dans vos projets. Plus qu'un métier, une philosophie !
+                  </p>
                 </div>
-                <ul>
+                {{-- <ul>
                   <li> Anim pariatur cliche reprehenderit </li>
                   <li> Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
                   <li> Morbi accumsan ipsum velit sodales tellus odio tincidunt auctor</li>
                   <li>Locavore pork belly scenester, pinterest chillwave microdos</li>
-                </ul>
+                </ul> --}}
               </div>
             </div>
           </div>
