@@ -10,7 +10,7 @@
                         <div class="table-cell">
                             <div class="intro-text container">
                                 <div class="title clearfix">
-                                    <h2>LES PROGRÈS <span>D'AUJOURDHUI </span>SONT LES PRÉVISIONS  <span>D'HIER </span></h2>
+                            <h2>NOUS PRÉPARONS <span>L'AVENIR</span></h2>
                                     <p>TechnoSun pour vous servir</p>
                                 </div>
                                 <!-- <a href="#" class="btn btn-trnsp btn-big fixed-btn ">PURCHASE NOW</a>
@@ -26,7 +26,7 @@
                         <div class="table-cell">
                             <div class="intro-text container">
                               <div class="title clearfix">
-                                  <h2>LES PROGRÈS <span>D'AUJOURDHUI </span>SONT LES PRÉVISIONS  <span>D'HIER </span></h2>
+                          <h2>NOUS PRÉPARONS <span>L'AVENIR</span></h2>
                                   <p>TechnoSun pour vous servir</p>
                               </div>
                                 <!-- <a href="#" class="btn btn-trnsp btn-big fixed-btn ">PURCHASE NOW</a> -->
@@ -42,7 +42,7 @@
                         <div class="table-cell">
                             <div class="intro-text container">
                               <div class="title clearfix">
-                                  <h2>LES PROGRÈS <span>D'AUJOURDHUI </span>SONT LES PRÉVISIONS  <span>D'HIER </span></h2>
+                          <h2>NOUS PRÉPARONS <span>L'AVENIR</span></h2>
                                   <p>TechnoSun pour vous servir</p>
                               </div>
                                 <!-- <a href="#" class="btn btn-trnsp btn-big fixed-btn ">PURCHASE NOW</a>

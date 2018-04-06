@@ -1,5 +1,7 @@
+
 @include ('header')
 @include ('preloader')
+
 @include ('navigation')
 <div class="clearfix space"></div>
  @include ('slider')

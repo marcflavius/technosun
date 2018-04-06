@@ -1,4 +1,6 @@
 
+</div>
+{{-- app end  --}}
     <!-- copyright area starts -->
     <footer class="copyright-area section-small">
         <div class="container">
@@ -13,7 +15,9 @@
         </div>
     </footer>
     <!-- copyright area ends -->
+    <script src="{{asset('app.js')}}" charset="utf-8"></script>
 
+    {{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.js" charset="utf-8"></script> --}}
     <!-- Latest jQuery -->
     <script src="assets/js/jquery.min.js"></script>
 
@@ -43,7 +47,7 @@
 
     <!-- Main js-->
     <script src="assets/js/main_script.js"></script>
-
+    @yield('js')
 </body>
 
 </html>

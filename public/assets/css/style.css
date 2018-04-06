@@ -296,9 +296,10 @@ fieldset {
     z-index: 1;
 }
 .table-cell {
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
+  padding-top: 10%;
+    /* display: table-cell; */
+    /* text-align: center; */
+    /* vertical-align: middle; */
 }
 
 img {
@@ -919,11 +920,13 @@ ul.service-list li.active a {
 }
 
 ul.service-list li a {
+
 	color: #333333;
 	font-size: 18px;
 	font-weight: bold;
 	text-transform: uppercase;
 	padding: 29px;
+  padding-bottom: 44px;
 	display: block;
 }
 

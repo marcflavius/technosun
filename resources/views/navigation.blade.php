@@ -38,34 +38,36 @@
 </div>
 <!-- Navigation area ends -->
 
+@section('js')
+  <style media="screen">
+  .nav-logo {
+    position: absolute;
+  }
+    @media only screen and (max-width: 768px)
+      {
+        .nav-logo {
+          /*portable*/
+          font-size: 15px;
+        }
+      }
 
-<style media="screen">
-.nav-logo {
-  position: absolute;
-}
-  @media only screen and (max-width: 768px)
+    /*tablette*/
+     @media only screen and (min-width: 768px) and (max-width: 992px)
     {
       .nav-logo {
         /*portable*/
-        font-size: 15px;
+        font-size: 20px;
       }
     }
 
-  /*tablette*/
-   @media only screen and (min-width: 768px) and (max-width: 992px)
-  {
-    .nav-logo {
-      /*portable*/
-      font-size: 20px;
-    }
-  }
+    #about div.content-box
+      {
+          display: flex;
+          justify-content: center;
+          flex-direction: column;
+      }
 
-  #about div.content-box
-    {
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-    }
 
-    
-</style>
+  </style>
+
+@endsection

@@ -18,7 +18,7 @@
         <ul class="service-list">
           <li class="active">
             <a href="#photo" data-toggle="tab">
-               <br> Photovoltaïque </a>
+               <br>Photovoltaïque</a>
           </li>
           <li>
             <a href="#eolien" data-toggle="tab">
@@ -112,12 +112,18 @@
                 <div class="mt-30 mb-30">
                   <p>
                     <ul style="padding:0">
-                      Imulation Thermique Dynamique (STD), optimisation des équipements énergétiques, optimisation de l’éclairage naturel et artificiel.
+                      <p>
+                        Simulation Thermique Dynamique (STD), optimisation des équipements énergétiques, optimisation de l’éclairage naturel et artificiel.
+                      </p>
 
+                      <p>
                       Nous intervenons principalement sur des projets de qualité environnementale où nous nous engageons à aboutir à l’objectif de performance énergétique exigé par la maîtrise d’ouvrage. Dans l’optique d’une réduction des consommations d’énergie, des émissions de gaz à effet de serre des bâtiments et de la pollution engendrée par les matériaux, l’éco conception et l’approche bioclimatique sont des préalables nécessaires. Ainsi, le recours aux énergies est limité et la construction (re)trouve une cohérence avec son environnement par sa sobriété énergétique.
+                    </p>
 
-                      La simulation thermique dynamique est l’outil indispensable à la conception pour identifier les défaillances techniques et architecturales perturbant le confort des usagers. Cette modélisation numérique nous permet d’orienter le projet de
-                      construction vers des alternatives améliorant le confort et permettant des économies sur le coût d’exploitation par des simulations successives de combinaison de matériaux.
+                      <p>
+                        La simulation thermique dynamique est l’outil indispensable à la conception pour identifier les défaillances techniques et architecturales perturbant le confort des usagers. Cette modélisation numérique nous permet d’orienter le projet de
+                        construction vers des alternatives améliorant le confort et permettant des économies sur le coût d’exploitation par des simulations successives de combinaison de matériaux.
+                      </p>
                     </ul>
                   </p>
                 </div>
