@@ -105,7 +105,7 @@
                 <img src="assets/img/service/tab4.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ENERGY OPTIMIZATION TECHNOSUN </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ACCOMPANES YOU</font></font></span></h3>
+                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ENERGY OPTIMIZATION </font></font></h3>
                 <div class="mt-30 mb-30">
                   <p>
                     </p><ul style="padding:0">

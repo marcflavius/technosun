@@ -108,7 +108,7 @@
                 <img src="assets/img/service/tab4.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title">OPTIMISATION ÉNERGÉTIQUE TECHNOSUN <span>VOUS ACCOMPAGNE</span></h3>
+                <h3 class="sub-title">OPTIMISATION ÉNERGÉTIQUE</h3>
                 <div class="mt-30 mb-30">
                   <p>
                     <ul style="padding:0">
