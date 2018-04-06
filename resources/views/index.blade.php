@@ -1,5 +1,9 @@
 
 @include ('header')
+<body>
+<div id="app">
+
+
 @include ('preloader')
 
 @include ('navigation')
