@@ -17,24 +17,24 @@
       <div class="col-md-3 col-sm-12 col-xs-12">
         <ul class="service-list">
           <li class="active">
-            <a href="#photo" data-toggle="tab">
-               <br>Photovoltaïque</a>
+            <a href="#photo" data-toggle="tab" aria-expanded="false">
+                   <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="goog-text-highlight">la energía fotovoltaica</font></font></a>
           </li>
           <li>
-            <a href="#eolien" data-toggle="tab">
-              <br> Petit éolien</a>
+            <a href="#eolien" data-toggle="tab" aria-expanded="false">
+              <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Pequeño viento</font></font></a>
           </li>
           <li>
-            <a href="#biomasse" data-toggle="tab">
-              <br>Biomasse</a>
+            <a href="#biomasse" data-toggle="tab" aria-expanded="false">
+                      <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="goog-text-highlight">biomasa</font></font></a>
           </li>
           <li>
-            <a href="#oe" data-toggle="tab">
-              <br>Optimisation énergétique</a>
+            <a href="#oe" data-toggle="tab" aria-expanded="false">
+                    <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Optimización energética</font></font></a>
           </li>
           <li>
-            <a href="#eau" data-toggle="tab">
-              <br> 	traitement d’eau</a>
+            <a href="#eau" data-toggle="tab" aria-expanded="true">
+                        <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 	tratamiento de agua</font></font></a>
           </li>
         </ul>
       </div>

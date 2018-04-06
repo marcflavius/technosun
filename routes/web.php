@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/en', function () {
     return view('en.index');
 });
+Route::get('/es', function () {
+    return view('es.index');
+});

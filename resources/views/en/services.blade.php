@@ -27,7 +27,7 @@
               <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">biomass</font></font></a>
           </li>
           <li>
-            <a href="#seo" data-toggle="tab">
+            <a href="#oe" data-toggle="tab">
               <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Energy optimization</font></font></a>
           </li>
           <li>
@@ -99,7 +99,7 @@
             </div>
           </div>
 
-          <div role="tabpanel" class="tab-pane " id="seo">
+          <div role="tabpanel" class="tab-pane " id="oe">
             <div class="tab-content">
               <div class="tab-img">
                 <img src="assets/img/service/tab4.jpg" alt="">

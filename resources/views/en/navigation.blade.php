@@ -21,7 +21,7 @@
                                 <ul class="nav navbar-nav navbar-right">
                                     <li class="active"><a class="smooth_scroll" href="#slider"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HOME</font></font></a></li>
                                     <li class=""><a class="smooth_scroll" href="#about"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OUR ENTERPRISE</font></font></a></li>
-                                    <li class=""><a class="smooth_scroll" href="#service"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NOS SERVICES</font></font></a></li>
+                                    <li class=""><a class="smooth_scroll" href="#service"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OUR SERVICES</font></font></a></li>
                                     <!-- <li><a class="smooth_scroll" href="#work">NOS RÉALISATIONS</a></li> -->
                                     <!-- <li><a class="smooth_scroll" href="#team">NOTRE ÉQUIPE</a></li> -->
                                     <li class=""><a class="smooth_scroll" href="#contact">CONTACT</a></li>
