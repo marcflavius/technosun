@@ -47,10 +47,11 @@
                 <img src="assets/img/service/tab1.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SOLAR</font></font></h3>
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
-                  Para sus paneles solares térmicos, llame a un profesional TECHNOSUN, marca de calidad RGE Guadalupe que reúne a profesionales calificados para instalar sistemas solares térmicos en la vivienda individual y colectiva. </font><font style="vertical-align: inherit;" class="">TECHNOSUN te asesora y propone el sistema solar térmico más adecuado a tus necesidades
-                </font></font></p>
+                <h3 class="sub-title">PHOTOVOLTAÏQUE</h3>
+                <p>
+                  Pour vos panneaux solaires thermiques, faites appel à un professionnel TECHNOSUN, marque de qualité RGE en Guadeloupe qui rassemble les professionnels qualifiés pour installer des systèmes solaires thermiques dans l'habitat individuel et collectif.
+                  TECHNOSUN vous conseille et propose le système solaire thermique le plus adapté à vos besoins
+                </p>
               </div>
             </div>
           </div>
@@ -61,18 +62,18 @@
                 <img src="assets/img/service/tab2.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PEQUEÑO VIENTO </font></font></h3>
+                <h3 class="sub-title">PETIT ÉOLIEN </h3>
                 <ul style="padding:0">
-                  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
-                    Mientras que las grandes turbinas eólicas tienen la participación principal de participar en el equilibrio oferta-demanda del sistema eléctrico francés mediante la reducción del contenido de carbono de la combinación energética, la pequeña turbina eólica se posiciona como una producción difusa de electricidad renovable.
-                  </font></font></p>
-                  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Moviliza niveles más bajos de inversión, requiere estándares normativos menos complejos y condiciones de conexión de red menos reguladas que los grandes parques eólicos.
-                  </font></font></p>
-                  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    Respetar la restricción de la eficiencia económica implica centrar el pequeño mercado eólico en el área rural: por un lado, el recurso eólico es de mejor calidad, por otro lado, el pequeño aerogenerador hace posible aprovechar el el desafío del sector agrícola para reducir la dependencia energética o proporcionar una solución a áreas no conectadas.
+                  <p>
+                    Alors que le grand éolien a pour enjeu premier de participer à l’équilibre offre-demande du système électrique français en diminuant le contenu carbone du bouquet énergétique, le petit éolien se positionne comme une production diffuse d’électricité renouvelable.
+                  </p>
+                  <p>
+                    Il mobilise des niveaux d’investissement moins élevés, nécessite des référentiels normatifs moins complexes et des conditions de connexion au réseau moins règlementées que le grand éolien.
+                  </p>
+                  <p>
+                    Le respect de la contrainte d’efficacité économique implique de centrer le marché du petit éolien sur le domaine rural : ainsi, d’une part la ressource en vent est de meilleure qualité, d’autre part le petit éolien permet de faire levier sur l’enjeu du secteur agricole de diminution de la dépendance énergétique ou d’apporter une solution aux zones non connectées.
 
-                  </font></font></p>
+                  </p>
                 </ul>
               </div>
             </div>
@@ -83,18 +84,18 @@
                 <img src="assets/img/service/tab3.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BIOMASA</font></font></h3>
+                <h3 class="sub-title">BIOMASSE</h3>
 
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">  La madera es la principal fuente de energía renovable utilizada en Francia, donde el recurso está presente en cantidad. </font><font style="vertical-align: inherit;">Por lo tanto, la madera de la energía está destinada a contribuir en gran medida a los objetivos franceses de energía y clima.</font></font></p>
+                <p>  Le bois est la première source d’énergie renouvelable utilisée en France, où la ressource est présente en quantité. Le bois énergie est donc appelé à contribuer largement aux objectifs énergétiques et climatiques français.</p>
 
-                <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                  Más allá de su contribución al desarrollo de las energías renovables, la biomasa energética, y principalmente el uso de la madera, tiene varias ventajas:
-                </font></font></p>
+                <p>
+                  Au-delà de sa contribution au développement des énergies renouvelables, la biomasse énergie, et principalement l’utilisation du bois, présente plusieurs avantages :
+                </p>
 
                 <ul>
-                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Es un recurso abundante y local: la tasa de aprovechamiento de la madera actualmente representa solo la mitad del crecimiento natural del bosque en Francia.</font></font></li>
-                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Emite poco CO2 en comparación con los combustibles fósiles</font></font></li>
-                  <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Es competitivo: para el individuo, el precio de los troncos es en promedio la mitad que el gas natural y casi tres veces más económico que el fuel oil.</font></font></li>
+                  <li>Elle constitue une ressource abondante et locale : le taux de prélèvement de bois ne représente actuellement qu’environ la moitié de l’accroissement naturel de la forêt en France</li>
+                  <li> Elle émet peu de CO2 par rapport aux énergies fossiles</li>
+                  <li>Elle est compétitive : pour le particulier, le prix du bois bûche est en moyenne deux fois moins cher que le gaz naturel et près de trois fois moins cher que le fioul</li>
                 </ul>
                 <!-- <a href="" class="btn tab-btn">read more</a> -->
               </div>
@@ -107,25 +108,31 @@
                 <img src="assets/img/service/tab4.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OPTIMIZACIÓN ENERGÉTICA</font></font></h3>
+                <h3 class="sub-title">OPTIMISATION ÉNERGÉTIQUE TECHNOSUN <span>VOUS ACCOMPAGNE</span></h3>
                 <div class="mt-30 mb-30">
                   <p>
-                    </p><ul style="padding:0">
-                      <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                        Dynamic Thermal Simulation (STD), optimización de equipos de energía, optimización de iluminación natural y artificial.
-                      </font></font></p>
+                    <ul style="padding:0">
+                      <p>
+                        Simulation Thermique Dynamique (STD), optimisation des équipements énergétiques, optimisation de l’éclairage naturel et artificiel.
+                      </p>
 
-                      <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                      Trabajamos principalmente en proyectos de calidad ambiental en los que nos comprometemos a lograr el objetivo del rendimiento energético requerido por el propietario del proyecto. </font><font style="vertical-align: inherit;" class="">Con vistas a reducir el consumo de energía, las emisiones de gases de efecto invernadero de los edificios y la contaminación causada por los materiales, el diseño ecológico y el enfoque bioclimático son requisitos previos necesarios. </font><font style="vertical-align: inherit;">Por lo tanto, el uso de la energía es limitado y la construcción (re) encuentra una coherencia con su entorno por su sobriedad energética.
-                    </font></font></p>
+                      <p>
+                      Nous intervenons principalement sur des projets de qualité environnementale où nous nous engageons à aboutir à l’objectif de performance énergétique exigé par la maîtrise d’ouvrage. Dans l’optique d’une réduction des consommations d’énergie, des émissions de gaz à effet de serre des bâtiments et de la pollution engendrée par les matériaux, l’éco conception et l’approche bioclimatique sont des préalables nécessaires. Ainsi, le recours aux énergies est limité et la construction (re)trouve une cohérence avec son environnement par sa sobriété énergétique.
+                    </p>
 
-                      <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                        La simulación térmica dinámica es la herramienta esencial para el diseño para identificar fallas técnicas y arquitectónicas que perturban la comodidad de los usuarios. </font><font style="vertical-align: inherit;">Este modelado numérico nos permite dirigir el proyecto de construcción hacia alternativas que mejoran la comodidad y ahorran costos de operación al simular combinaciones sucesivas de materiales.
-                      </font></font></p>
+                      <p>
+                        La simulation thermique dynamique est l’outil indispensable à la conception pour identifier les défaillances techniques et architecturales perturbant le confort des usagers. Cette modélisation numérique nous permet d’orienter le projet de
+                        construction vers des alternatives améliorant le confort et permettant des économies sur le coût d’exploitation par des simulations successives de combinaison de matériaux.
+                      </p>
                     </ul>
-                  <p></p>
+                  </p>
                 </div>
-
+                {{-- <ul>
+                  <li> Anim pariatur cliche reprehenderit </li>
+                  <li> Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                  <li> Morbi accumsan ipsum velit sodales tellus odio tincidunt auctor</li>
+                  <li>Locavore pork belly scenester, pinterest chillwave microdos</li>
+                </ul> --}}
                 <!-- <a href="" class="btn tab-btn">read more</a> -->
               </div>
             </div>
@@ -136,14 +143,21 @@
                 <img src="assets/img/service/tab5.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">TRATAMIENTO DE AGUA</font></font></h3>
+                <h3 class="sub-title">TRAITEMENT DES D'EAUX</h3>
 
                 <div class="mt-30 mb-30">
-                  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    La recogida de aguas pluviales, tratamiento de agua del grifo, el agua del pozo, fuente o agua de una perforación que tienen la solución para sus necesidades. </font><font style="vertical-align: inherit;" class="">Tratamos el problema del agua que tiene disponible: arsénico, piedra caliza, el sarro, la desinfección, la desalinización, hierro, manganeso, herbicidas, Legionella, metales pesados, nitratos, pesticidas, el pH, la mineralización de la calidad del agua. </font><font style="vertical-align: inherit;">Miembro activo del desarrollo sostenible, TECHNOSUN lo acompañará en sus proyectos. </font><font style="vertical-align: inherit;">¡Más que un trabajo, una filosofía!
-                  </font></font></p>
+                  <p>
+                    De la récupération de l'eau de pluie, au traitement de l'eau du réseau, l'eau de votre puits, d'une source, ou l'eau d'un forage nous avons la solution adaptée à votre besoin.
+  Nous traitons la problématique de l'eau que vous avez à disposition : Arsenic, calcaire, tartre, désinfection, dessalement, fer, manganèse, herbicides, légionnelle, métaux lourds, nitrates, pesticides, Ph, minéralisation pour obtenir une eau de qualité.
+  Membre actif du développement durable, TECHNOSUN vous accompagnera dans vos projets. Plus qu'un métier, une philosophie !
+                  </p>
                 </div>
-
+                {{-- <ul>
+                  <li> Anim pariatur cliche reprehenderit </li>
+                  <li> Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+                  <li> Morbi accumsan ipsum velit sodales tellus odio tincidunt auctor</li>
+                  <li>Locavore pork belly scenester, pinterest chillwave microdos</li>
+                </ul> --}}
               </div>
             </div>
           </div>

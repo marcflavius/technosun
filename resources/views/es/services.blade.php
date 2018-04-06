@@ -6,7 +6,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="section-title text-center mb-30 ">
-          <h2>NOS <span>SERVICES</span> </h2>
+          <h2>NUESTROS  <span>SERVICIOS</span> </h2>
 
         </div>
       </div>
