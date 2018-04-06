@@ -20,3 +20,7 @@ Route::get('/en', function () {
 Route::get('/es', function () {
     return view('es.index');
 });
+
+Route::get('/ch', function () {
+    return view('ch.index');
+});

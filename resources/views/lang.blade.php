@@ -7,6 +7,7 @@
     <li><a href="/"><img src="assets/img/flag/fr.png" width=20px>&nbsp;Fançais</a></li>
     <li><a href="/en"><img src="assets/img/flag/en.png" width=20px>&nbsp;English</a></li>
     <li><a href="/es"><img src="assets/img/flag/es.png" width=20px>&nbsp;Español</a></li>
+    <li><a href="/ch"><img src="assets/img/flag/ch.png" width=20px>&nbsp;Chinese</a></li>
   </ul>
 </li>
 

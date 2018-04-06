@@ -10,7 +10,7 @@
 <div class="clearfix space"></div>
  @include ('ch.slider')
 @include ('ch.about')
-@include ('ch.servicch')
+@include ('ch.services')
 {{-- @include ('ch.numbers') --}}
 {{-- @include ('ch.work') --}}
 @include ('ch.pub')

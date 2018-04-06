@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title text-center mb-30 ">
-                    <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contáctenos </font></font></font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></font></font></span> </h2>
+                    <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系</font></font></font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们</font></font></font></font></span> </h2>
                 </div>
             </div>
         </div>
@@ -41,7 +41,7 @@
                                     <textarea name="message" class="form-control" id="message" placeholder="Your Message" required="required"></textarea>
                                 </div>
                                 <div class="actions">
-                                    <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><input type="submit" value="Enviar" name="submit" id="submitButton" class="btn" title="Envía tu mensaje!"></font></font></font></font>
+                                    <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><input type="submit" value="提交" name="submit" id="submitButton" class="btn" title="提交您的信息！"></font></font></font></font>
                                 </div>
                             </div>
                         </div>

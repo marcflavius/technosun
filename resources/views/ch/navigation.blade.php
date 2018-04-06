@@ -20,24 +20,14 @@
                                 <ul class="nav navbar-nav navbar-right">
                                     <li class="active"><a class="smooth_scroll" href="#slider"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HOME</font></font></a></li>
                                     <li class=""><a class="smooth_scroll" href="#about"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的公司</font></font></a></li>
-                                    <li class=""><a class="smooth_scroll" href="#service"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NOS服务</font></font></a></li>
+                                    <li class=""><a class="smooth_scroll" href="#service"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+我们的服务</font></font></a></li>
                                     <!-- <li><a class="smooth_scroll" href="#work">NOS RÉALISATIONS</a></li> -->
                                     <!-- <li><a class="smooth_scroll" href="#team">NOTRE ÉQUIPE</a></li> -->
                                     <li class=""><a class="smooth_scroll" href="#contact"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系</font></font></a></li>
 
 
-
-                                    <li class="dropdown">
-
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-    <img class="lang-flag" src="assets/img/flag.png" alt="">
-  </a>
-  <ul class="dropdown-menu">
-    <li><a href="/"><img src="assets/img/flag/fr.png" width="20px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&nbsp;Fançais</font></font></a></li>
-    <li><a href="/en"><img src="assets/img/flag/en.png" width="20px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&nbsp;英语</font></font></a></li>
-    <li><a href="/es"><img src="assets/img/flag/es.png" width="20px"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&nbsp;西班牙语</font></font></a></li>
-  </ul>
-</li>
+@include('lang')
 
 <style media="screen">
   .lang-flag {
