@@ -34,6 +34,10 @@
             <a href="#eau" data-toggle="tab">
               <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 	water treatment</font></font></a>
           </li>
+          <li>
+            <a href="#mo" data-toggle="tab">
+              <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 	subject mastery</font></font></a>
+          </li>
         </ul>
       </div>
 
@@ -144,6 +148,25 @@
 
               </div>
             </div>
+          </div>
+          <div role="tabpanel" class="tab-pane " id="mo">
+            <div class="tab-content">
+                  <div class="tab-img">
+                    <img src="assets/img/service/tab6.jpg" alt="">
+                  </div>
+                  <div class="single-tab">
+                    <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SUBJECT MASTERY</font></font></h3>
+
+                    <div class="mt-30 mb-30">
+                      <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                      The company helps its clients by deploying its specialized consultants within their organization to bring their experience and expertise</font></font></p>
+                      <p>
+                        </p><div class="expertise-item expertise-item-content  flex-column"><div style="padding: 3.125em;">
+                        <ul><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Logistics management</font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Implementation of the projects</font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">On-site coordination</font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Quality Inspection</font></font></li><li>Assemblage</li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">tools</font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Planning</font></font></li></ul></div></div>
+                      <p></p>
+                    </div>
+                  </div>
+                </div>
           </div>
         </div>
       </div>

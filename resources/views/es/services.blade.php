@@ -36,6 +36,11 @@
             <a href="#eau" data-toggle="tab" aria-expanded="true">
                         <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 	tratamiento de agua</font></font></a>
           </li>
+          <li>
+            <a href="#mo" data-toggle="tab" aria-expanded="true">
+                        <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+asignatura maestra</font></font></a>
+          </li>
         </ul>
       </div>
 
@@ -146,6 +151,25 @@
 
               </div>
             </div>
+          </div>
+          <div role="tabpanel" class="tab-pane " id="mo">
+            <div class="tab-content">
+                  <div class="tab-img">
+                    <img src="assets/img/service/tab6.jpg" alt="">
+                  </div>
+                  <div class="single-tab">
+                    <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ASIGNATURA MAESTRA</font></font></font></font></h3>
+
+                    <div class="mt-30 mb-30">
+                      <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                      La compañía ayuda a sus clientes mediante el despliegue de sus consultores especializados dentro de su organización para aportar su experiencia y experiencia.</font></font></font></font></p>
+                      <p>
+                        </p><div class="expertise-item expertise-item-content  flex-column"><div style="padding: 3.125em;">
+                        <ul><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gestion de logistica</font></font></font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Implementación de los proyectos</font></font></font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coordinación en el sitio</font></font></font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inspeccion de calidad</font></font></font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Montaje</font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">herramientas</font></font></font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Planificación</font></font></font></font></li></ul></div></div>
+                      <p></p>
+                    </div>
+                  </div>
+                </div>
           </div>
         </div>
       </div>

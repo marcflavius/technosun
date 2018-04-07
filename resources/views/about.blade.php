@@ -86,6 +86,17 @@
                             </div>
                         </div>
 
+                        <!--About single-content-->
+                        <div class="bdr single-content mt-30">
+                            <div class="icon">
+                                6
+                            </div>
+                            <div class="content-box">
+                                <h4>MAÎTRISE D'OEUVRE</h4>
+
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>

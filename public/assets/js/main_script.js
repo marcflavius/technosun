@@ -337,7 +337,7 @@
 
 			// Home Page Slider Settings
           $('#carousel-example-generic').carousel({
-            interval: 5000,
+            interval: 8000,
             cycle: true
           });
 

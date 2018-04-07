@@ -36,6 +36,10 @@
             <a href="#eau" data-toggle="tab">
               <br> 	traitement d’eau</a>
           </li>
+          <li>
+            <a href="#mo" data-toggle="tab">
+              <br> 	maîtrise d'oeuvre</a>
+          </li>
         </ul>
       </div>
 
@@ -152,12 +156,25 @@
   Membre actif du développement durable, TECHNOSUN vous accompagnera dans vos projets. Plus qu'un métier, une philosophie !
                   </p>
                 </div>
-                {{-- <ul>
-                  <li> Anim pariatur cliche reprehenderit </li>
-                  <li> Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                  <li> Morbi accumsan ipsum velit sodales tellus odio tincidunt auctor</li>
-                  <li>Locavore pork belly scenester, pinterest chillwave microdos</li>
-                </ul> --}}
+              </div>
+            </div>
+          </div>
+          <div role="tabpanel" class="tab-pane " id="mo">
+            <div class="tab-content">
+              <div class="tab-img">
+                <img src="assets/img/service/tab6.jpg" alt="">
+              </div>
+              <div class="single-tab">
+                <h3 class="sub-title">MAÎTRISE D'OEUVRE</h3>
+
+                <div class="mt-30 mb-30">
+                  <p>
+                  La société aide ses clients en déployant ses consultants spécialisés au sein de leur structure pour y apporter leur  expérience et expertise</p>
+                  <p>
+                    <div class="expertise-item expertise-item-content  flex-column"><div style="padding: 3.125em;">
+                    <ul><li>Gestion logistique</li><li>Mise en place des chantiers</li><li>Coordination sur site</li><li>Inspection qualité</li><li>Assemblage</li><li>Outillage</li><li>Planification</li></ul></div></div>
+                  </p>
+                </div>
               </div>
             </div>
           </div>

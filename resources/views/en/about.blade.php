@@ -84,6 +84,17 @@
                             </div>
                         </div>
 
+                        <!--About single-content-->
+                        <div class="bdr single-content mt-30">
+                            <div class="icon"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                6
+                            </font></font></div>
+                            <div class="content-box">
+                                <h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> SUBJECT MASTERY</font></font></h4>
+
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>

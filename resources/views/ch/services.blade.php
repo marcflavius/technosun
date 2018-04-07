@@ -34,6 +34,10 @@
             <a href="#eau" data-toggle="tab">
               <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 	水处理</font></font></font></font></a>
           </li>
+          <li>
+            <a href="#mo" data-toggle="tab">
+              <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 	主题硕士</font></font></font></font></a>
+          </li>
         </ul>
       </div>
 
@@ -144,6 +148,25 @@
 
               </div>
             </div>
+          </div>
+          <div role="tabpanel" class="tab-pane " id="mo">
+            <div class="tab-content">
+                  <div class="tab-img">
+                    <img src="assets/img/service/tab6.jpg" alt="">
+                  </div>
+                  <div class="single-tab">
+                    <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">主题硕士</font></font></font></font></h3>
+
+                    <div class="mt-30 mb-30">
+                      <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                      该公司通过在其组织内部署专业顾问来帮助其客户，以提供他们的经验和专业知识</font></font></font></font></p>
+                      <p>
+                        </p><div class="expertise-item expertise-item-content  flex-column"><div style="padding: 3.125em;">
+                        <ul><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">物流管理</font></font></font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目的实施</font></font></font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现场协调</font></font></font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">质量检验</font></font></font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">装配</font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工具</font></font></font></font></li><li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">规划</font></font></font></font></li></ul></div></div>
+                      <p></p>
+                    </div>
+                  </div>
+                </div>
           </div>
         </div>
       </div>
