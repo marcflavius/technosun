@@ -1,6 +1,5 @@
 <section id="about" class="about-area section-big">
         <div class="container">
-
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title text-center mb-30 ">
