@@ -39,8 +39,7 @@
 
                             <div class="col-md-12">
                                 <div class="form-group in_message">
-                                    <textarea name="message" class="form-control" id="message" placeholder="Votre Message" required="required">{{old('message')}}
-                                    </textarea>
+                                    <textarea name="message" class="form-control" id="message" placeholder="Votre Message" required="required">{{old('message')}}</textarea>
                                 </div>
                                 <div class="actions">
                                     <input type="submit" value="Soumettre" name="submit" id="submitButton" class="btn" title="Submit Your Message!">
