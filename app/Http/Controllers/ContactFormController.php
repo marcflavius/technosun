@@ -22,12 +22,8 @@ class ContactFormController extends Controller {
     $this->validate($request,$rules);
 
 //    send
-<<<<<<< HEAD
     Mail::to('operations@technosun.tech')
-=======
-    Mail::to('test@gmail.com')
->>>>>>> ba2a6739fd7f1e1c222611f4780cb98c1bd3fe62
-      ->send(new FowardContactMessage($request));
+     ->send(new FowardContactMessage($request));
     Session::flash('success','The message was send');
     return redirect('/#contact');
   }
