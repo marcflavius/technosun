@@ -22,8 +22,6 @@
                                     <li class="active"><a class="smooth_scroll" href="#slider">ACCUEIL</a></li>
                                     <li><a class="smooth_scroll" href="#about">NOTRE ENTREPRISE</a></li>
                                     <li><a class="smooth_scroll" href="#service">NOS SERVICES</a></li>
-                                    <!-- <li><a class="smooth_scroll" href="#work">NOS RÉALISATIONS</a></li> -->
-                                    <!-- <li><a class="smooth_scroll" href="#team">NOTRE ÉQUIPE</a></li> -->
                                     <li><a class="smooth_scroll" href="#contact">CONTACT</a></li>
 
                                     {{-- <li class=""><a href="/en">

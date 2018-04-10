@@ -6,16 +6,18 @@ use Tests\TestCase;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
-class SendContactEmailTest extends TestCase
+class Homepage_contact_formTest extends TestCase
 {
     /**
      * A basic test example.
      *
      * @return void
      */
-    public function user_can_send_a_contact_email()
+     /** test*/
+
+    public function a_anonymous_can_send_and_email_via_the_homepage_contact_form()
     {
-      
+
         $this->assertTrue(true);
     }
 }
