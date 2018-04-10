@@ -5,7 +5,7 @@
 
 # Adresse de contact
 
-{{$request->input('name')}}
+{{$request->input('email')}}
 
 # Sujet
 
