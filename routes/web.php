@@ -24,3 +24,4 @@ Route::get('/es', function () {
 Route::get('/ch', function () {
     return view('ch.index');
 });
+Route::post('/contact', 'ContactFormController@send')->name('contact');
