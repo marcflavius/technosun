@@ -1,12 +1,12 @@
-bootstrap/compiled.php
-vendor/
-public/sitemap.xml
-app/config/packages
-public/packages
+/bootstrap/compiled.php
+/vendor/
+/public/sitemap.xml
+/app/config/packages
+/public/packages
 
-build/logs
-build/coverage
-app/tests/_log
+/build/logs
+/build/coverage
+/app/tests/_log
 
 composer.phar
 .DS_Store

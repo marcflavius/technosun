@@ -1,9 +1,11 @@
+<!-- Contact area starts -->
 <section id="contact" class="contact-area section-big">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="section-title text-center mb-30 ">
-                    <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系</font></font></font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们</font></font></font></font></span> </h2>
+                    <h2>
+                        联系<span>我们</span> </h2>
                 </div>
             </div>
         </div>
@@ -16,32 +18,32 @@
                     <!-- Submition status -->
                     <div id="form-messages"></div>
 
-                    <form id="ajax-contact" action="assets/mailer.php" method="post">
-                      <input type="hidden" name="_token" value="SGOSJ7LGNO399ITknDz1N8GnUixbR853EhkdqGzm">
+                    <form action="{{route('contact')}}" method="post">
+                        {{ csrf_field() }}
                         <div class="row">
 
                             <div class="col-md-6">
                                 <div class="form-group in_name">
-                                    <input type="text" name="name" class="form-control" id="name" placeholder="Your full name" required="required">
+                                    <input value="{{old('name')}}" type="text" name="name" class="form-control" id="name" placeholder="姓名和姓氏" required="required">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group in_email">
-                                    <input type="email" name="email" class="form-control" id="email" placeholder="Your email" required="required">
+                                    <input value="{{old('email')}}" type="email" name="email" class="form-control" id="email" placeholder="电子邮件" required="required">
                                 </div>
                             </div>
                             <div class="col-md-12">
                                 <div class="form-group in_subject">
-                                    <input type="text" name="subject" class="form-control" id="subject" placeholder="Title" required="required">
+                                    <input value="{{old('subject')}}" type="text" name="subject" class="form-control" id="subject" placeholder="学科" required="required">
                                 </div>
                             </div>
 
                             <div class="col-md-12">
                                 <div class="form-group in_message">
-                                    <textarea name="message" class="form-control" id="message" placeholder="Your Message" required="required"></textarea>
+                                    <textarea name="message" class="form-control" id="message" placeholder="信息" required="required">{{old('message')}}</textarea>
                                 </div>
                                 <div class="actions">
-                                    <font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><input type="submit" value="提交" name="submit" id="submitButton" class="btn" title="提交您的信息！"></font></font></font></font>
+                                    <input type="submit" value="提交" name="submit" id="submitButton" class="btn" title="Submit Your Message!">
                                 </div>
                             </div>
                         </div>
@@ -49,13 +51,52 @@
                 </div>
                 <!-- Contact form ends-->
 
+                @if($errors->any())
+                    <div calss="col-md-12 m-30 ">
+                        <div class="form-group">
+                            <div class="alert alert-danger mt-30">
+                                @foreach($errors->getMessages() as $this_error)
+                                    <p style="color: red;">{{$this_error[0]}}</p>
+                                @endforeach
+                            </div>
+                        </div>
+                    </div>
+                @endif
+                @if(session('success'))
+                    <div calss="col-md-12 m-30 ">
+                        <div class="form-group">
+                            <div class="alert alert-success mt-30">
+                                <p>{{session('success')}}</p>
+                            </div>
+                        </div>
+                    </div>
+                @endif
             </div>
-            <div class="col-md-4">
-                <div class="address mt-30">
-                    <div class="address-list">
+            <div class="col-md-4 mt-30">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="prim-color"><strong>电话:</strong></div>
+                    </div>
+                    <div class="col-md-12 mt-30">
+                        <strong>+590</strong> 048 923
+                    </div>
+                    <div class="col-md-12 mt-30">
+                        <div><span class="prim-color "><strong>地址</strong></span></div>
+                    </div>
+                    <div  class="col-md-12 mt-30">
+                        <div> rue du Debarcadere</div>
+                        <div> 97129 Lamentin GUADELOUPE</div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="col-md-4">
+            <div class="address mt-30">
+                <div class="address-list">
+                </div>
+            </div>
+        </div>
+    </div>
     </div>
 </section>
+<!-- Contact area ends -->
