@@ -3,7 +3,7 @@
 <body>
 <div id="app">
 
-//
+
 @include ('preloader')
 
 @include ('fr.navigation')
