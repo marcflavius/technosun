@@ -238,6 +238,11 @@ fieldset {
 .intro-text h2 span{
     color:#31bfc3;
 }
+/* <style media="screen"> */
+.prim-color {
+    color: #31bfc3 !important;
+}
+/* </style> */
 
 .section-title h2::before {
 	content: '';
