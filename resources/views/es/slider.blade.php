@@ -9,7 +9,7 @@
                             <div class="intro-text container">
                                 <div class="title clearfix">
                             <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NOS PREPARAMOS PARA </font></font></font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EL FUTURO</font></font></font></font></span></h2>
-                                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TechnoSun para servirle</font></font></font></font></p>
+                                    <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Technosun para servirle</font></font></font></font></p>
                                 </div>
                                 <!-- <a href="#" class="btn btn-trnsp btn-big fixed-btn ">PURCHASE NOW</a>
                                 <a href="#" class="btn btn-trnsp btn-big">LEARN MORE</a> -->
@@ -25,7 +25,7 @@
                             <div class="intro-text container">
                               <div class="title clearfix">
                           <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NOS PREPARAMOS PARA </font></font></font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EL FUTURO</font></font></font></font></span></h2>
-                                  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TechnoSun para servirle</font></font></font></font></p>
+                                  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Technosun para servirle</font></font></font></font></p>
                               </div>
                                 <!-- <a href="#" class="btn btn-trnsp btn-big fixed-btn ">PURCHASE NOW</a> -->
                                 <!-- <a href="#" class="btn btn-trnsp btn-big">LEARN MORE</a> -->
@@ -41,7 +41,7 @@
                             <div class="intro-text container">
                               <div class="title clearfix">
                           <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NOS PREPARAMOS PARA </font></font></font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EL FUTURO</font></font></font></font></span></h2>
-                                  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TechnoSun para servirle</font></font></font></font></p>
+                                  <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Technosun para servirle</font></font></font></font></p>
                               </div>
                                 <!-- <a href="#" class="btn btn-trnsp btn-big fixed-btn ">PURCHASE NOW</a>
                                 <a href="#" class="btn btn-trnsp btn-big">LEARN MORE</a> -->

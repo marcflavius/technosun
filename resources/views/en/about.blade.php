@@ -25,7 +25,7 @@
                         <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">The activity</font></font></h3>
                         <div class="about-details">
                           <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            With its experience and know-how, TECHNOSUN, a renewable energy company, aims to satisfy its customers by offering solutions tailored to their needs in the following areas
+                            With its experience and know-how, Technosun, a renewable energy company, aims to satisfy its customers by offering solutions tailored to their needs in the following areas
                           </font></font></p>
 
                         </div>

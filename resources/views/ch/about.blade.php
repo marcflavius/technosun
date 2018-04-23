@@ -24,7 +24,7 @@
                         <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">活动</font></font></font></font></h3>
                         <div class="about-details">
                           <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            凭借其经验和专业知识，TECHNOSUN是一家可再生能源公司，旨在通过在以下领域提供量身定制满足其需求的解决方案来满足其客户
+                            凭借其经验和专业知识，Technosun是一家可再生能源公司，旨在通过在以下领域提供量身定制满足其需求的解决方案来满足其客户
                           </font></font></font></font></p>
 
                         </div>

@@ -27,7 +27,7 @@
                         <h3 class="sub-title">L'activité</h3>
                         <div class="about-details">
                           <p>
-                            Forte de son expérience et de son savoir-faire, TECHNOSUN, une société Innovatrice des énergies renouvelables a pour objectif premier de satisfaire sa clientèle en leur proposant des solutions adaptées à leurs besoins dans les domaines suivants
+                            Forte de son expérience et de son savoir-faire, Technosun, une société Innovatrice des énergies renouvelables a pour objectif premier de satisfaire sa clientèle en leur proposant des solutions adaptées à leurs besoins dans les domaines suivants
                           </p>
 
                         </div>

@@ -51,7 +51,7 @@
               <div class="single-tab">
                 <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">光伏</font></font></font></font></h3>
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                  对于您的太阳能热能面板，请致电专业TECHNOSUN，质量标志RGE瓜德罗普，汇集合格的专业人员将太阳能热系统安装在个人和集体住房中。</font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TECHNOSUN建议您并提出最适合您需求的太阳能热系统
+                  对于您的太阳能热能面板，请致电专业Technosun，质量标志RGE瓜德罗普，汇集合格的专业人员将太阳能热系统安装在个人和集体住房中。</font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Technosun建议您并提出最适合您需求的太阳能热系统
                 </font></font></font></font></p>
               </div>
             </div>
@@ -142,7 +142,7 @@
 
                 <div class="mt-30 mb-30">
                   <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="goog-text-highlight"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    从雨水收集，到网络水处理，井水，源头水或井水，我们都能根据您的需求调整解决方案。</font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们对待您可用的水的问题：砷，石灰石，牙垢，消毒，脱盐，铁，锰，除草剂，军团菌，重金属，硝酸盐，杀虫剂，Ph，矿化获得优质水。</font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可持续发展的积极成员，TECHNOSUN将陪伴您参与您的项目。</font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不只是一份工作，一种理念！
+                    从雨水收集，到网络水处理，井水，源头水或井水，我们都能根据您的需求调整解决方案。</font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们对待您可用的水的问题：砷，石灰石，牙垢，消毒，脱盐，铁，锰，除草剂，军团菌，重金属，硝酸盐，杀虫剂，Ph，矿化获得优质水。</font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可持续发展的积极成员，Technosun将陪伴您参与您的项目。</font></font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不只是一份工作，一种理念！
                   </font></font></font></font></p>
                 </div>
 

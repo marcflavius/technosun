@@ -54,7 +54,7 @@ asignatura maestra</font></font></a>
               <div class="single-tab">
                 <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SOLAR</font></font></h3>
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
-                  Para sus paneles solares térmicos, llame a un profesional TECHNOSUN, marca de calidad RGE Guadalupe que reúne a profesionales calificados para instalar sistemas solares térmicos en la vivienda individual y colectiva. </font><font style="vertical-align: inherit;" class="">TECHNOSUN te asesora y propone el sistema solar térmico más adecuado a tus necesidades
+                  Para sus paneles solares térmicos, llame a un profesional Technosun, marca de calidad RGE Guadalupe que reúne a profesionales calificados para instalar sistemas solares térmicos en la vivienda individual y colectiva. </font><font style="vertical-align: inherit;" class="">Technosun te asesora y propone el sistema solar térmico más adecuado a tus necesidades
                 </font></font></p>
               </div>
             </div>
@@ -145,7 +145,7 @@ asignatura maestra</font></font></a>
 
                 <div class="mt-30 mb-30">
                   <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    La recogida de aguas pluviales, tratamiento de agua del grifo, el agua del pozo, fuente o agua de una perforación que tienen la solución para sus necesidades. </font><font style="vertical-align: inherit;" class="">Tratamos el problema del agua que tiene disponible: arsénico, piedra caliza, el sarro, la desinfección, la desalinización, hierro, manganeso, herbicidas, Legionella, metales pesados, nitratos, pesticidas, el pH, la mineralización de la calidad del agua. </font><font style="vertical-align: inherit;">Miembro activo del desarrollo sostenible, TECHNOSUN lo acompañará en sus proyectos. </font><font style="vertical-align: inherit;">¡Más que un trabajo, una filosofía!
+                    La recogida de aguas pluviales, tratamiento de agua del grifo, el agua del pozo, fuente o agua de una perforación que tienen la solución para sus necesidades. </font><font style="vertical-align: inherit;" class="">Tratamos el problema del agua que tiene disponible: arsénico, piedra caliza, el sarro, la desinfección, la desalinización, hierro, manganeso, herbicidas, Legionella, metales pesados, nitratos, pesticidas, el pH, la mineralización de la calidad del agua. </font><font style="vertical-align: inherit;">Miembro activo del desarrollo sostenible, Technosun lo acompañará en sus proyectos. </font><font style="vertical-align: inherit;">¡Más que un trabajo, una filosofía!
                   </font></font></p>
                 </div>
 

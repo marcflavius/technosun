@@ -6,7 +6,7 @@
 		<div class="row">
 			<div class="col-md-12 text-center">
 				<div class="copy-right">
-					<p>TECHNOSUN Copyright &nbsp; &copy; <?php echo date('Y') ?></p>
+					<p>Technosun Copyright &nbsp; &copy; <?php echo date('Y') ?></p>
 				</div>
 			</div>
 			<a class="smooth_scroll" href="#slider" id="scroll-to-top"><i class="fa fa-long-arrow-up"></i></a>

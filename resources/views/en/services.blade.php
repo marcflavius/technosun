@@ -51,7 +51,7 @@
               <div class="single-tab">
                 <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHOTOVOLTAIC</font></font></h3>
                 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                  For your solar thermal panels, call a professional TECHNOSUN, quality mark RGE Guadeloupe that brings together qualified professionals to install solar thermal systems in the individual and collective housing. </font><font style="vertical-align: inherit;">TECHNOSUN advises you and proposes the solar thermal system most adapted to your needs
+                  For your solar thermal panels, call a professional Technosun, quality mark RGE Guadeloupe that brings together qualified professionals to install solar thermal systems in the individual and collective housing. </font><font style="vertical-align: inherit;">Technosun advises you and proposes the solar thermal system most adapted to your needs
                 </font></font></p>
               </div>
             </div>
@@ -142,7 +142,7 @@
 
                 <div class="mt-30 mb-30">
                   <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="goog-text-highlight">
-                    From rainwater harvesting, to water treatment of the network, the water from your well, from a source, or the water from a well, we have the solution adapted to your needs. </font><font style="vertical-align: inherit;">We treat the problem of water that you have available: Arsenic, limestone, tartar, disinfection, desalination, iron, manganese, herbicides, legionella, heavy metals, nitrates, pesticides, Ph, mineralization to obtain quality water. </font><font style="vertical-align: inherit;">Active member of sustainable development, TECHNOSUN will accompany you in your projects. </font><font style="vertical-align: inherit;">More than a job, a philosophy!
+                    From rainwater harvesting, to water treatment of the network, the water from your well, from a source, or the water from a well, we have the solution adapted to your needs. </font><font style="vertical-align: inherit;">We treat the problem of water that you have available: Arsenic, limestone, tartar, disinfection, desalination, iron, manganese, herbicides, legionella, heavy metals, nitrates, pesticides, Ph, mineralization to obtain quality water. </font><font style="vertical-align: inherit;">Active member of sustainable development, Technosun will accompany you in your projects. </font><font style="vertical-align: inherit;">More than a job, a philosophy!
                   </font></font></p>
                 </div>
 

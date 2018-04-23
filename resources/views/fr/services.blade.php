@@ -53,8 +53,8 @@
               <div class="single-tab">
                 <h3 class="sub-title">PHOTOVOLTAÏQUE</h3>
                 <p>
-                  Pour vos panneaux solaires thermiques, faites appel à un professionnel TECHNOSUN, marque de qualité RGE en Guadeloupe qui rassemble les professionnels qualifiés pour installer des systèmes solaires thermiques dans l'habitat individuel et collectif.
-                  TECHNOSUN vous conseille et propose le système solaire thermique le plus adapté à vos besoins
+                  Pour vos panneaux solaires thermiques, faites appel à un professionnel Technosun, marque de qualité RGE en Guadeloupe qui rassemble les professionnels qualifiés pour installer des systèmes solaires thermiques dans l'habitat individuel et collectif.
+                  Technosun vous conseille et propose le système solaire thermique le plus adapté à vos besoins
                 </p>
               </div>
             </div>
@@ -112,7 +112,7 @@
                 <img src="assets/img/service/tab4.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title">OPTIMISATION ÉNERGÉTIQUE TECHNOSUN <span>VOUS ACCOMPAGNE</span></h3>
+                <h3 class="sub-title">OPTIMISATION ÉNERGÉTIQUE Technosun <span>VOUS ACCOMPAGNE</span></h3>
                 <div class="mt-30 mb-30">
                   <p>
                     <ul style="padding:0">
@@ -153,7 +153,7 @@
                   <p>
                     De la récupération de l'eau de pluie, au traitement de l'eau du réseau, l'eau de votre puits, d'une source, ou l'eau d'un forage nous avons la solution adaptée à votre besoin.
   Nous traitons la problématique de l'eau que vous avez à disposition : Arsenic, calcaire, tartre, désinfection, dessalement, fer, manganèse, herbicides, légionnelle, métaux lourds, nitrates, pesticides, Ph, minéralisation pour obtenir une eau de qualité.
-  Membre actif du développement durable, TECHNOSUN vous accompagnera dans vos projets. Plus qu'un métier, une philosophie !
+  Membre actif du développement durable, Technosun vous accompagnera dans vos projets. Plus qu'un métier, une philosophie !
                   </p>
                 </div>
               </div>

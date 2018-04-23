@@ -25,7 +25,7 @@
                         <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">La actividad</font></font></font></font></h3>
                         <div class="about-details">
                           <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                            Con su experiencia y know-how, TECHNOSUN, una empresa de energía renovable, tiene como objetivo satisfacer a sus clientes ofreciendo soluciones adaptadas a sus necesidades en las siguientes áreas
+                            Con su experiencia y know-how, Technosun, una empresa de energía renovable, tiene como objetivo satisfacer a sus clientes ofreciendo soluciones adaptadas a sus necesidades en las siguientes áreas
                           </font></font></font></font></p>
 
                         </div>

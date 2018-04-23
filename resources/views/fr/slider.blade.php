@@ -11,7 +11,7 @@
                             <div class="intro-text container">
                                 <div class="title clearfix">
                             <h2>NOUS PRÉPARONS <span>L'AVENIR</span></h2>
-                                    <p>TechnoSun pour vous servir</p>
+                                    <p>Technosun pour vous servir</p>
                                 </div>
                                 <!-- <a href="#" class="btn btn-trnsp btn-big fixed-btn ">PURCHASE NOW</a>
                                 <a href="#" class="btn btn-trnsp btn-big">LEARN MORE</a> -->
@@ -27,7 +27,7 @@
                             <div class="intro-text container">
                               <div class="title clearfix">
                           <h2>NOUS PRÉPARONS <span>L'AVENIR</span></h2>
-                                  <p>TechnoSun pour vous servir</p>
+                                  <p>Technosun pour vous servir</p>
                               </div>
                                 <!-- <a href="#" class="btn btn-trnsp btn-big fixed-btn ">PURCHASE NOW</a> -->
                                 <!-- <a href="#" class="btn btn-trnsp btn-big">LEARN MORE</a> -->
@@ -43,7 +43,7 @@
                             <div class="intro-text container">
                               <div class="title clearfix">
                           <h2>NOUS PRÉPARONS <span>L'AVENIR</span></h2>
-                                  <p>TechnoSun pour vous servir</p>
+                                  <p>Technosun pour vous servir</p>
                               </div>
                                 <!-- <a href="#" class="btn btn-trnsp btn-big fixed-btn ">PURCHASE NOW</a>
                                 <a href="#" class="btn btn-trnsp btn-big">LEARN MORE</a> -->

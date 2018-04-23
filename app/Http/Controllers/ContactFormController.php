@@ -22,7 +22,7 @@ class ContactFormController extends Controller {
     $this->validate($request,$rules);
 
 //    send
-    Mail::to('operations@technosun.tech')
+    Mail::to('operations@Technosun.tech')
       ->send(new FowardContactMessage($request));
     Session::flash('success','The message was send');
     return redirect('/#contact');

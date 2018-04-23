@@ -9,12 +9,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="TECHNOSUN - Les progrès d'aujourdhui sont les prévisions d'hier">
+    <meta name="description" content="Technosun - Les progrès d'aujourdhui sont les prévisions d'hier">
     <meta name="keywords" content="business, responsive, multipurpose, onepage, corporate, clean">
     <meta name="author" content="Designcarebd">
 
     <!-- Site title -->
-    <title>TechnoSun - TechnoSun pour vous servir</title>
+    <title>Technosun - Technosun pour vous servir</title>
 
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favi.png">
