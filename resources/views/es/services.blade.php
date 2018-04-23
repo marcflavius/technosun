@@ -22,7 +22,8 @@
           </li>
           <li>
             <a href="#eolien" data-toggle="tab" aria-expanded="false">
-              <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Pequeño viento</font></font></a>
+              <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+Eólico</font></font></a>
           </li>
           <li>
             <a href="#biomasse" data-toggle="tab" aria-expanded="false">
@@ -66,10 +67,10 @@ asignatura maestra</font></font></a>
                 <img src="assets/img/service/tab2.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PEQUEÑO VIENTO </font></font></h3>
+                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eólico </font></font></h3>
                 <ul style="padding:0">
                   <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;" class="">
-                    Mientras que las grandes turbinas eólicas tienen la participación principal de participar en el equilibrio oferta-demanda del sistema eléctrico francés mediante la reducción del contenido de carbono de la combinación energética, la pequeña turbina eólica se posiciona como una producción difusa de electricidad renovable.
+                    Mientras que las grandes turbinas eólicas tienen la participación principal de participar en el equilibrio oferta-demanda del sistema eléctrico francés mediante la reducción del contenido de carbono de la combinación energética, la energía eólica se posiciona como una producción difusa de electricidad renovable.
                   </font></font></p>
                   <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     Moviliza niveles más bajos de inversión, requiere estándares normativos menos complejos y condiciones de conexión de red menos reguladas que los grandes parques eólicos.

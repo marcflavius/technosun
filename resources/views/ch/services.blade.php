@@ -20,7 +20,8 @@
           </li>
           <li>
             <a href="#eolien" data-toggle="tab">
-              <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 小风</font></font></font></font></a>
+              <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+风尘</font></font></font></font></a>
           </li>
           <li>
             <a href="#biomasse" data-toggle="tab">
@@ -63,7 +64,8 @@
                 <img src="assets/img/service/tab2.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">小风 </font></font></font></font></h3>
+                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+风尘 </font></font></font></font></h3>
                 <ul style="padding:0">
                   <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     尽管大型风力发电机通过降低能源组合的碳含量而参与法国电力系统供需平衡的主要利益，但小型风力发电机定位为可再生电力的扩散式生产。

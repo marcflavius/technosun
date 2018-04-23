@@ -22,7 +22,7 @@
           </li>
           <li>
             <a href="#eolien" data-toggle="tab">
-              <br> Petit éolien</a>
+              <br>éolien</a>
           </li>
           <li>
             <a href="#biomasse" data-toggle="tab">
@@ -66,7 +66,7 @@
                 <img src="assets/img/service/tab2.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title">PETIT ÉOLIEN </h3>
+                <h3 class="sub-title">ÉOLIEN</h3>
                 <ul style="padding:0">
                   <p>
                     Alors que le grand éolien a pour enjeu premier de participer à l’équilibre offre-demande du système électrique français en diminuant le contenu carbone du bouquet énergétique, le petit éolien se positionne comme une production diffuse d’électricité renouvelable.
