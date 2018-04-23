@@ -28,7 +28,7 @@
               </div>
               <div class="col-md-6">
                 <div class="form-group in_email">
-                  <input value="{{old('email')}}" type="email" name="email" class="form-control" id="email" placeholder="Addresse email" required="required">
+                  <input value="{{old('email')}}" type="email" name="email" class="form-control" id="email" placeholder="Email" required="required">
                 </div>
               </div>
               <div class="col-md-12">
@@ -83,7 +83,7 @@
             <div class="prim-color"><strong>Contact:</strong></div>
           </div>
           <div class="col-md-12">
-             <div>contact.martial@technosun.tech</div>
+             <div>contact@technosun.tech</div>
           </div>
           <div class="col-md-12 mt-30">
             <div><span class="prim-color "><strong>Adresse</strong></span></div>

@@ -84,7 +84,7 @@
                       <div class="prim-color"><strong>联系:</strong></div>
                     </div>
                     <div class="col-md-12">
-                       <div>contact.martial@technosun.tech</div>
+                       <div>contact@technosun.tech</div>
                     </div>
                     <div class="col-md-12 mt-30">
                         <div><span class="prim-color "><strong>地址</strong></span></div>

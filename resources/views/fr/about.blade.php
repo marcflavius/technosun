@@ -48,7 +48,7 @@
                                 2
                             </div>
                             <div class="content-box">
-                                <h4>PETIT ÉOLIEN</h4>
+                                <h4>ÉOLIEN</h4>
                             </div>
                         </div>
 

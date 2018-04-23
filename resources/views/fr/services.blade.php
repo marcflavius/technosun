@@ -69,13 +69,13 @@
                 <h3 class="sub-title">ÉOLIEN</h3>
                 <ul style="padding:0">
                   <p>
-                    Alors que le grand éolien a pour enjeu premier de participer à l’équilibre offre-demande du système électrique français en diminuant le contenu carbone du bouquet énergétique, le petit éolien se positionne comme une production diffuse d’électricité renouvelable.
+                    Alors que le grand éolien a pour enjeu premier de participer à l’équilibre offre-demande du système électrique français en diminuant le contenu carbone du bouquet énergétique, le ÉOLIEN se positionne comme une production diffuse d’électricité renouvelable.
                   </p>
                   <p>
                     Il mobilise des niveaux d’investissement moins élevés, nécessite des référentiels normatifs moins complexes et des conditions de connexion au réseau moins règlementées que le grand éolien.
                   </p>
                   <p>
-                    Le respect de la contrainte d’efficacité économique implique de centrer le marché du petit éolien sur le domaine rural : ainsi, d’une part la ressource en vent est de meilleure qualité, d’autre part le petit éolien permet de faire levier sur l’enjeu du secteur agricole de diminution de la dépendance énergétique ou d’apporter une solution aux zones non connectées.
+                    Le respect de la contrainte d’efficacité économique implique de centrer le marché du ÉOLIEN sur le domaine rural : ainsi, d’une part la ressource en vent est de meilleure qualité, d’autre part le ÉOLIEN permet de faire levier sur l’enjeu du secteur agricole de diminution de la dépendance énergétique ou d’apporter une solution aux zones non connectées.
 
                   </p>
                 </ul>

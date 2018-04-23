@@ -16,7 +16,7 @@
         <!-- Works filter -->
         <ul class="work filters text-center">
           <li class="filter" data-filter="all">Photovoltaïque</li>
-          <li class="filter" data-filter=".web">Petit éolien</li>
+          <li class="filter" data-filter=".web">ÉOLIEN</li>
           <li class="filter" data-filter=".dev">Biomasse</li>
           <li class="filter" data-filter=".brand">Optimisation énergétique</li>
           <li class="filter" data-filter=".illustrate">Traitement de l'eau</li>
