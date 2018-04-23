@@ -77,13 +77,19 @@
                     <div class="col-md-12">
                         <div class="prim-color"><strong>电话:</strong></div>
                     </div>
+                    <div class="col-md-12">
+                        <strong>+590</strong> 590 048 923
+                    </div>
                     <div class="col-md-12 mt-30">
-                        <strong>+590</strong> 048 923
+                      <div class="prim-color"><strong>联系:</strong></div>
+                    </div>
+                    <div class="col-md-12">
+                       <div>joel.martial@technosun.tech</div>
                     </div>
                     <div class="col-md-12 mt-30">
                         <div><span class="prim-color "><strong>地址</strong></span></div>
                     </div>
-                    <div  class="col-md-12 mt-30">
+                    <div  class="col-md-12">
                         <div> rue du Debarcadere</div>
                         <div> 97129 Lamentin GUADELOUPE</div>
                     </div>

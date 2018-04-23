@@ -76,14 +76,20 @@
                     <div class="col-md-12">
                         <div class="prim-color"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Phone:</font></font></strong></div>
                     </div>
+                    <div class="col-md-12">
+                        <strong>+590</strong> 590 048 923
+                    </div>
                     <div class="col-md-12 mt-30">
-                        <strong>+590</strong> 048 923
+                      <div class="prim-color"><strong>Contact:</strong></div>
+                    </div>
+                    <div class="col-md-12">
+                       <div>joel.martial@technosun.tech</div>
                     </div>
                     <div class="col-md-12 mt-30">
                         <div><span class="prim-color "><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Address</font></font></strong></span></div>
                     </div>
-                    <div class="col-md-12 mt-30">
-                        <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> rue du Debarcadere</font></font></div>
+                    <div class="col-md-12">
+                        <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Rue du Debarcadere</font></font></div>
                         <div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 97129 Lamentin GUADELOUPE</font></font></div>
                     </div>
                 </div>
