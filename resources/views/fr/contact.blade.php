@@ -83,7 +83,7 @@
             <div class="prim-color"><strong>Contact:</strong></div>
           </div>
           <div class="col-md-12">
-             <div>joel.martial@technosun.tech</div>
+             <div>contact.martial@technosun.tech</div>
           </div>
           <div class="col-md-12 mt-30">
             <div><span class="prim-color "><strong>Adresse</strong></span></div>
