@@ -17,6 +17,7 @@ class Homepage_contact_formTest extends TestCase
 
     public function a_anonymous_can_send_and_email_via_the_homepage_contact_form()
     {
+        
 
         $this->assertTrue(true);
     }
