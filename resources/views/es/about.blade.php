@@ -46,7 +46,7 @@
                                 2
                             </font></font></font></font></div>
                             <div class="content-box">
-                                <h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PEQUEÑO VIENTO</font></font></font></font></h4>
+                                <h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EÓLICO </font></font></font></font></h4>
                             </div>
                         </div>
 

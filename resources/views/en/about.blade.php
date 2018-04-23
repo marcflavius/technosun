@@ -46,7 +46,7 @@
                                 2
                             </font></font></div>
                             <div class="content-box">
-                                <h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SMALL WIND</font></font></h4>
+                                <h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EOLIAN</font></font></h4>
                             </div>
                         </div>
 
