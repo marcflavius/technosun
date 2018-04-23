@@ -14,7 +14,7 @@
 	</div>
 </footer>
 <!-- copyright area ends -->
-<script src="{{asset('app.js')}}" charset="utf-8"></script>
+{{-- <script src="{{asset('app.js')}}" charset="utf-8"></script> --}}
 
 {{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.js" charset="utf-8"></script> --}}
 	<!-- Latest jQuery -->
