@@ -20,7 +20,7 @@
           </li>
           <li>
             <a href="#eolien" data-toggle="tab">
-              <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">eolian</font></font></a>
+              <br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wind turbunie generator</font></font></a>
           </li>
           <li>
             <a href="#biomasse" data-toggle="tab">
@@ -63,10 +63,10 @@
                 <img src="assets/img/service/tab2.jpg" alt="">
               </div>
               <div class="single-tab">
-                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EOLIAN </font></font></h3>
+                <h3 class="sub-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wind turbunie generator </font></font></h3>
                 <ul style="padding:0">
                   <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-                    While large wind turbines have the primary stake of participating in the supply-demand balance of the French electricity system by reducing the carbon content of the energy mix, the eolian turbine is positioned as a diffuse production of renewable electricity.
+                    While large wind turbines have the primary stake of participating in the supply-demand balance of the French electricity system by reducing the carbon content of the energy mix, the wind turbunie generator turbine is positioned as a diffuse production of renewable electricity.
                   </font></font></p>
                   <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                     It mobilizes lower levels of investment, requires less complex normative standards and less regulated network connection conditions than large wind farms.
