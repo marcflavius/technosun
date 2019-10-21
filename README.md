@@ -1,4 +1,4 @@
-# Projet filrouge Licence CSI
+# Un exemple de site vitrine développer sur Laravel 5 avec option multilingue
 
 Une petite application de gestion de ticket 
 * Language php
