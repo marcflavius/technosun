@@ -6,7 +6,7 @@ Une petite application de gestion de ticket
 
 # installation
  ### Step 1
- #### a la racine projet executer 
+ #### À la racine projet executer 
  * composer install
  * cp .env.example .env
  * php artisan key:generate
