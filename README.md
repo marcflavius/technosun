@@ -11,5 +11,5 @@ Une petite application de gestion de ticket
  * cp .env.example .env
  * php artisan key:generate
  * php artisan serve 
- * aller à localhost 8080
+ * aller à localhost 8000
  * option traduction dans le menu de navigation
