@@ -5,8 +5,8 @@ Une petite application de gestion de ticket
 * Framework Laravel 5
 
 # installation
- #### Step 1
- # a la racine projet executer 
+ ### Step 1
+ #### a la racine projet executer 
  * composer install
  * cp .env.example .env
  * php artisan key:generate
